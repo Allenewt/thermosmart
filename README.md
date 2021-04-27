@@ -1,0 +1,2 @@
+# thermosmart
+Proyecto arquitectura computacional.
